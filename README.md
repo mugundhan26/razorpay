@@ -23,7 +23,7 @@ Capacitor plugin to support [Razorpay Standard Checkout](https://developer.apple
 
 ## Installation
 
-- `npm i -S https://github.com/razorpay/razorpay-capacitor.git`
+- `npm i -S https://github.com/mugundhan26/razorpay.git`
 
 ## Adding Plugin For Android Integration
 
